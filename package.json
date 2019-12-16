@@ -1,0 +1,29 @@
+{
+  "name": "training_protractor",
+  "version": "1.0.0",
+  "main": "conf.js",
+  "dependencies": {
+    "protractor": "^5.4.2"
+  },
+  "devDependencies": {
+    "jasmine-spec-reporter": "^4.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "protractor conf.js",
+    "w": "webdriver-manager start",
+    "prew": " webdriver-manager update"
+  },
+  "keywords": [],
+  "author": "Vasyl Poberezhnyk",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wasya95lv/training_protractor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wasya95lv/training_protractor/issues"
+  },
+  "homepage": "https://github.com/wasya95lv/training_protractor#readme",
+  "description": ""
+}
