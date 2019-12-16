@@ -19,11 +19,11 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wasya95lv/training_protractor.git"
+    "url": ""
   },
   "bugs": {
-    "url": "https://github.com/wasya95lv/training_protractor/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/wasya95lv/training_protractor#readme",
+  "homepage": "",
   "description": ""
 }
